@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'wx',
         'USER':'root',
         'PASSWORD':'xfgh1234',
-        'PORT':'8806',
+        'PORT':'3306',
         'HOST':'127.0.0.1'
     }
 }
